@@ -12,6 +12,7 @@ Photography and digitization work with museums and academic publications.
 ### 🔐 Cybersecurity
 
 * **[Burp XSS Generator](https://github.com/PinkCloudlet/BurpXSSGenerator)** — Burp Suite extension for XSS testing. *(Dopisz tu 1 zdanie: co dokładnie generuje i w jakich kontekstach.)* For authorized testing only.
+* **[Linux Commands](https://pinkcloudlet.github.io/tuxlab/)** — A Polish-language, interactive app for learning Linux commands.
 * **Home security monitoring** — Wazuh SIEM collecting events from my home devices.
 * **Password Strength Checker** *(in progress, repo coming soon)* — Local app for password entropy, offline crack-time estimates, HIBP k-anonymity checks and a PQC-safe password generator.
   
